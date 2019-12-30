@@ -3,6 +3,8 @@ RaspbianがのったRaspberry Pi 3BでLEDを光らせることができるデバ
 
 2つのLEDの点滅で0から3の数字を2進数に表現します。
 
+デモンストレーション動画もあります：https://youtu.be/e1r_i6WeDwI
+
 参考：https://github.com/ryuichiueda/robosys2019/blob/master/md/06_device_driver.md
 
 # 回路
