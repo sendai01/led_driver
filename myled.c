@@ -4,7 +4,6 @@
 #include <linux/device.h>
 #include <linux/uaccess.h>
 #include <linux/io.h>
-#include <linux/delay.h>
 
 MODULE_AUTHOR("Ryuichi Ueda, Kazuki Kawahara");
 MODULE_DESCRIPTION("driver for LED control");
