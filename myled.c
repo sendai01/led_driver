@@ -5,7 +5,7 @@
 #include <linux/uaccess.h>
 #include <linux/io.h>
 
-MODULE_AUTHOR("Ryuichi Ueda, Kazuki Kawahara");
+MODULE_AUTHOR("Kazuki Kawahara, Ryuichi Ueda");
 MODULE_DESCRIPTION("driver for LED control");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.1");
